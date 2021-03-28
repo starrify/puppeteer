@@ -47,6 +47,7 @@
     "lib/**/*.d.ts.map",
     "lib/**/*.js",
     "lib/**/*.js.map",
+    "lib/cjs/",
     "install.js",
     "typescript-if-required.js",
     "cjs-entry.js",
