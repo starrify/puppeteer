@@ -50,7 +50,10 @@
     "install.js",
     "typescript-if-required.js",
     "cjs-entry.js",
-    "cjs-entry-core.js"
+    "cjs-entry-core.js",
+    "**/tsconfig*.json",
+    "!test/",
+    "!test-ts-types/"
   ],
   "author": "The Chromium Authors",
   "license": "Apache-2.0",
