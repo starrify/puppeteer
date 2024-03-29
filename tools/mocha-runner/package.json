@@ -34,8 +34,8 @@
     }
   },
   "dependencies": {
-    "c8": "8.0.1",
-    "glob": "10.3.10",
+    "c8": "9.1.0",
+    "glob": "10.3.12",
     "puppeteer-core": "file:../../packages/puppeteer-core",
     "zod": "3.22.4"
   }
